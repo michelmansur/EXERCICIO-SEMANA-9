@@ -4,7 +4,7 @@
 
 A OpenAI oferece diversas ferramentas de NLP (Processamento de Linguagem Natural) para desenvolvedores, pesquisadores e empresas. Abaixo, apresentamos alguns dos principais serviços e exemplos de aplicação de cada um deles.
 
-## GPT (Generative Pre-trained Transformer)
+## GPT 
 
 O GPT é um modelo de linguagem natural pré-treinado que pode ser utilizado para gerar texto em diversos contextos. Algumas aplicações possíveis são:
 
